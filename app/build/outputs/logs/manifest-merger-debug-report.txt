@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+MERGED from [com.android.support:design:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/dab1275fcfeb0109b2e62c1126e80f69/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/1b6508ae0b46218297516c16b9675d02/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ae73f2b56969975c9b50ce2daa2839bd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5bfcaf959c90374c44829914cb85df7d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/142e6a840f6448221ed69c8b146af118/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/c68c2d39035e575fe0b8d5bcebece65e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/70b5f69aec5749ad34289654ce5e2c89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/898c4f56009d2c42babf0a74fdb9c056/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/290cfebd5a6a859b6847e1fb503258dc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/16cbd3a61813974031cf215e4aa45466/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/16acfda43bd6e2cfb3b0e5c1e6aa8686/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/acfbb2cda0ad3abf643f55e92bce2b31/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/beca2926094dc2ff280d58535a11edb1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/42e7590118f607c6994ebcf881059267/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/c1004a9026f7897b17c8ad6e191267a8/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+	package
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-26:12
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:9:19-67
+uses-sdk
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+MERGED from [com.android.support:design:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/dab1275fcfeb0109b2e62c1126e80f69/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/dab1275fcfeb0109b2e62c1126e80f69/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/1b6508ae0b46218297516c16b9675d02/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/1b6508ae0b46218297516c16b9675d02/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ae73f2b56969975c9b50ce2daa2839bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ae73f2b56969975c9b50ce2daa2839bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5bfcaf959c90374c44829914cb85df7d/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5bfcaf959c90374c44829914cb85df7d/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/142e6a840f6448221ed69c8b146af118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/142e6a840f6448221ed69c8b146af118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/c68c2d39035e575fe0b8d5bcebece65e/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/c68c2d39035e575fe0b8d5bcebece65e/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/70b5f69aec5749ad34289654ce5e2c89/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/70b5f69aec5749ad34289654ce5e2c89/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/898c4f56009d2c42babf0a74fdb9c056/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/898c4f56009d2c42babf0a74fdb9c056/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/290cfebd5a6a859b6847e1fb503258dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/290cfebd5a6a859b6847e1fb503258dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/16cbd3a61813974031cf215e4aa45466/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/16cbd3a61813974031cf215e4aa45466/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/16acfda43bd6e2cfb3b0e5c1e6aa8686/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/16acfda43bd6e2cfb3b0e5c1e6aa8686/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/acfbb2cda0ad3abf643f55e92bce2b31/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/acfbb2cda0ad3abf643f55e92bce2b31/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/beca2926094dc2ff280d58535a11edb1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/beca2926094dc2ff280d58535a11edb1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/42e7590118f607c6994ebcf881059267/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/42e7590118f607c6994ebcf881059267/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/c1004a9026f7897b17c8ad6e191267a8/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/c1004a9026f7897b17c8ad6e191267a8/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/dab1275fcfeb0109b2e62c1126e80f69/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:15-41
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:13:5-24:19
+MERGED from [com.android.support:design:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/dab1275fcfeb0109b2e62c1126e80f69/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/dab1275fcfeb0109b2e62c1126e80f69/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/1b6508ae0b46218297516c16b9675d02/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/1b6508ae0b46218297516c16b9675d02/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ae73f2b56969975c9b50ce2daa2839bd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ae73f2b56969975c9b50ce2daa2839bd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5bfcaf959c90374c44829914cb85df7d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5bfcaf959c90374c44829914cb85df7d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/142e6a840f6448221ed69c8b146af118/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/142e6a840f6448221ed69c8b146af118/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/c68c2d39035e575fe0b8d5bcebece65e/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/c68c2d39035e575fe0b8d5bcebece65e/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/898c4f56009d2c42babf0a74fdb9c056/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/898c4f56009d2c42babf0a74fdb9c056/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/290cfebd5a6a859b6847e1fb503258dc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/290cfebd5a6a859b6847e1fb503258dc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/16cbd3a61813974031cf215e4aa45466/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/16cbd3a61813974031cf215e4aa45466/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/16acfda43bd6e2cfb3b0e5c1e6aa8686/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/16acfda43bd6e2cfb3b0e5c1e6aa8686/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/acfbb2cda0ad3abf643f55e92bce2b31/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/acfbb2cda0ad3abf643f55e92bce2b31/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/beca2926094dc2ff280d58535a11edb1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/beca2926094dc2ff280d58535a11edb1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/42e7590118f607c6994ebcf881059267/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/42e7590118f607c6994ebcf881059267/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/c1004a9026f7897b17c8ad6e191267a8/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/sudarshan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/c1004a9026f7897b17c8ad6e191267a8/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:13:18-44
+	android:theme
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:15:9-45
+activity#com.sudarshan.objectdetection.CameraActivity
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:label
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:19-51
+	android:name
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:17:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/sudarshan/AndroidStudioProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:27-74
