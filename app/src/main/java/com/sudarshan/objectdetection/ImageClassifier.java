@@ -21,6 +21,8 @@ import android.graphics.Bitmap;
 import android.os.SystemClock;
 import android.speech.tts.TextToSpeech;
 import android.util.Log;
+import android.widget.TextView;
+import android.view.View;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -153,11 +155,12 @@ public class ImageClassifier {
       Map.Entry<String, Float> label = sortedLabels.poll();
       if( label.getValue() > 0.35){
         totalObjPredicted+=1;
-        textToShow = String.format("%s, ",label.getKey()) + textToShow;
+        textToShow = String.format("%s, ", label.getKey()) + textToShow;
       }
     }
     if (totalObjPredicted==0){
-      textToShow = "I couldn't predict anything. Please, try again.";
+//      textToShow = "I couldn't predict anything. Please, try again.";
+      textToShow = "Nothing predicted";
     }
     return textToShow;
   }

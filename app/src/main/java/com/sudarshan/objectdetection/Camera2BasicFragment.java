@@ -29,6 +29,7 @@ import android.media.ImageReader;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.HandlerThread;
+import android.os.Looper;
 import android.speech.tts.TextToSpeech;
 import android.support.annotation.NonNull;
 import android.support.v13.app.FragmentCompat;
@@ -58,6 +59,7 @@ public class Camera2BasicFragment extends Fragment
         implements FragmentCompat.OnRequestPermissionsResultCallback {
 
   private TextToSpeech mTTS;
+  private String textToShow;
   /** Tag for the {@link Log}. */
   private static final String TAG = "TfLiteCameraDemo";
 
@@ -69,7 +71,7 @@ public class Camera2BasicFragment extends Fragment
   private final Object lock = new Object();
   private boolean runClassifier = false;
   private boolean checkedPermissions = false;
-  private TextView textView;
+  private TextView textView, objectTextView, confidenceLevelView;
   private ImageClassifier classifier;
 
   /** Max preview width that is guaranteed by Camera2 API */
@@ -276,6 +278,18 @@ public class Camera2BasicFragment extends Fragment
         return false;
       }
     });
+
+//    runOnUiThread(new Runnable() {
+//        @Override
+//        public void run() {
+//        }
+//    });
+
+    objectTextView = view.findViewById(R.id.object_name);
+    objectTextView.setText("Searching...");
+
+//    confidenceLevelView = view.findViewById(R.id.confidence_level);
+
     mTTS=new TextToSpeech(getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() {
       @Override
       public void onInit(int status) {
@@ -526,7 +540,7 @@ public class Camera2BasicFragment extends Fragment
     synchronized (lock) {
 //      runClassifier = true;
     }
-    backgroundHandler.post(periodicClassify);
+      backgroundHandler.post(periodicClassify);
   }
 
   /** Stops the background thread and its {@link Handler}. */
@@ -552,6 +566,12 @@ public class Camera2BasicFragment extends Fragment
               synchronized (lock) {
                 if (runClassifier) {
                   classifyFrame();
+                  getActivity().runOnUiThread(new Runnable() {
+                      @Override
+                      public void run() {
+                          objectTextView.setText(textToShow);
+                      }
+                  });
                   runClassifier = false;
                 }
               }
@@ -656,9 +676,14 @@ public class Camera2BasicFragment extends Fragment
     }
     Bitmap bitmap =
             textureView.getBitmap(ImageClassifier.DIM_IMG_SIZE_X, ImageClassifier.DIM_IMG_SIZE_Y);
-    String textToShow = classifier.classifyFrame(bitmap);
+    textToShow = classifier.classifyFrame(bitmap);
     bitmap.recycle();
+
+//    objectTextView.setText(textToShow);
+
     mTTS.speak(textToShow, TextToSpeech.QUEUE_FLUSH, null, null);
+//    confidenceLevelView.setText("After Touch");
+
   }
 
   private static class CompareSizesByArea implements Comparator<Size> {
