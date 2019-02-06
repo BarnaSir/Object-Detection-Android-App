@@ -1,0 +1,4 @@
+#Tue Feb 05 20:47:37 NPT 2019
+base.0=E\:\\Projects\\Object-Detection-Android-app\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
