@@ -18,7 +18,8 @@
         android:allowBackup="true"
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
-        android:label="@string/app_name"
+        android:icon="@drawable/locus_icon"
+        android:label="Visual Aid"
         android:theme="@style/MaterialTheme" >
         <activity
             android:name="com.sudarshan.objectdetection.SplashActivity"
@@ -31,11 +32,12 @@
         </activity>
         <activity
             android:name="com.sudarshan.objectdetection.CameraActivity"
-            android:label="@string/app_name" >
+            android:label="Visual Aid" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.sudarshan.objectdetection" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.ALTERNATIVE" />
             </intent-filter>
         </activity>
     </application>
